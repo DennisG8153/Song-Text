@@ -10,12 +10,12 @@ font-display: justify;
 h1 {
   font-family: 'Yeon Sung';
   text-align: center;
-  color: rgba(35, 40, 217, .7); 
-  background-color: rgba(144, 50, 207, 0.253);
+  color: #EF809A;
+  background-color: ;
   text-transform: uppercase;
 }
 h1:hover {
-  color:lightcyan;
+  color:;
   font-family: 'Dancing Script';
 }
 h6 {
@@ -29,7 +29,7 @@ h4 {
   color: red;
 }
 body {
-  background-color: rgba(23, 227, 224,.66);
+  background-color: 
 }
 .dad {
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
